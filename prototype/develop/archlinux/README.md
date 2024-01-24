@@ -1,0 +1,3 @@
+
+
+# bashrc-enhace / prototype / archlinux
